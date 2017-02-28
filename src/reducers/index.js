@@ -1,7 +1,8 @@
 import { combineReducers } from 'redux';
+import ChampsReducer from './reducer_champs';
 
 const rootReducer = combineReducers({
-  state: (state = {}) => state
+  champs: ChampsReducer,
 });
 
 export default rootReducer;

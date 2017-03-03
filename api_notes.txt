@@ -1,8 +1,0 @@
-https://na.api.pvp.net/api/lol/na/v1.4/summoner/by-name/Tr0users?api_key=86d43a6a-6b70-4b76-bc49-15bd3ebf5cbd
-
-
- https://na.api.pvp.net/api/lol/static-data/na/v1.2/champion?champData=all&api_key=86d43a6a-6b70-4b76-bc49-15bd3ebf5cbd
-
- https://na.api.pvp.net/api/lol/static-data/na/v1.2/champion?champData=all&api_key=86d43a6a-6b70-4b76-bc49-15bd3ebf5cbd
-
-http://ddragon.leagueoflegends.com/cdn/7.4.3/img/champion/Aatrox.png

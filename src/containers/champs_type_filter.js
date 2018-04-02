@@ -21,10 +21,10 @@ class ChampsTypeFilter extends Component {
   render() {
     return (
       <div className="form-group">
-        <label htmlFor="tagSelector">Champ Type:</label>
-        <select 
+        <label htmlFor="tagSelector">Champ Type Filter:</label>
+        <select
           onChange={this.onChange}
-          className="form-control" 
+          className="form-control"
           id="tagSelector"
         >
         {this.renderOptions()}
@@ -40,6 +40,6 @@ function mapStateToProps(state) {
 }
 
 export default connect(
-  mapStateToProps, 
+  mapStateToProps,
   { setFilterTypes },
 )(ChampsTypeFilter);
